@@ -12,6 +12,6 @@ I couln't upload The weights of the ultimate model here because they are too hea
 
 ## Performance of the model: 
 ### Jocker with a gun:
-![image](https://github.com/ANDREAaNAPPI/Weapon-detector-YOLOv9/blob/main/test_videos/Joker%20shooting.mp4)
+https://github.com/ANDREAaNAPPI/Weapon-detector-YOLOv9/issues/1
 ### Content image and Final output:
 ![image](https://github.com/ANDREAaNAPPI/Neural-style-transfer-Van-Gogh---Picasso---Klimt/assets/125900848/7870fdeb-5916-4cff-a354-2da47066d585)
