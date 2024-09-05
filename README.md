@@ -1,14 +1,14 @@
 # Weapon-detector-YOLOv9
-I developed a CNN for image classification of "One Piece" characters. 
-In this work i used the lighting module to give the code a compact and easy to read look, getting a final accuracy of over 98%, working with of over 3500 images.
-I belive I could squeeze out some additional accuracy points by training the model for more time, but since I used google colab's GPU I couldn't go over 80 training epochs.
+Using the YOLOv9 architecture I trained a model to detect guns and knives. 
+The training of the model has been split in 4 stages because of GPU issues. 
+If you are looking for the YOlov9 Github repository, you can find it here.
 
 Here you can find:
-- [My Python code](https://github.com/ANDREAaNAPPI/One-Piece-CNN/blob/main/One%20Piece%20CNN.ipynb)
-- [The data I worked with](https://www.kaggle.com/datasets/ibrahimserouis99/one-piece-image-classifier) Note that This is the original dataset, counting over 11k imgaes, and does include some transformations. In my code I cleaned this data to keep only original images.
+- [My Python code](https://github.com/ANDREAaNAPPI/Weapon-detector-YOLOv9/blob/main/Guns_%26_Knives_Yolov9.ipynb)
+- [The data I worked with](https://www.kaggle.com/datasets/iqmansingh/guns-knives-object-detection) 
 
-I saved the two best performing models according to highest validation accuracy and lowest validation loss, but i couln't upload them here because they are too heavy.
+I couln't upload The weights of the ultimate model here because they are too heavy.
 
 
-  
+
 ![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/OP_crew.jpeg)
